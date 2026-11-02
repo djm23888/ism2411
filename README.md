@@ -31,9 +31,6 @@ python week07/functions.py
 1e385f6 Initial commit
 
 Looking at my commit history, I think it shows that I worked on my assignment step by step and kept my changes organized. Each commit explains what I added, making it easier to follow my progress.
-
-### Question 2
-
 Using Git will help me be more careful when editing my Python assignments because I can save different versions of my work. Before this module, I would just save over my files, but now I can make commits and go back to earlier versions if I make a mistake.
 
 ### Question 3
